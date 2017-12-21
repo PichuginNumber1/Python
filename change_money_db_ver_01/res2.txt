@@ -1,0 +1,4 @@
+bob:1TurcLira,1Euro,5Euro,10Pesso,5mark
+ann:10rubley,1funt,10Yuaney
+petr:1dollars,10rubley,2Euro
+sam:10dollars

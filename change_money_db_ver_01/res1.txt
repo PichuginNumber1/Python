@@ -1,0 +1,3 @@
+bob:10rubley,1dollars,1funt
+ann:1TurcLira,1Euro,2Euro,1Frank
+petr:1dollars,5mark,1funt
